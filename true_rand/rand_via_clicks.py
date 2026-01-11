@@ -1,7 +1,6 @@
 import pyautogui
 import time
 import ctypes
-import hashlib
 import random
 
 # Windows constants for mouse buttons

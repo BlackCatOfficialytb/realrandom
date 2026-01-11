@@ -1,1 +1,3 @@
-print("CURRENTLY THE __init__ are in progress to call")
+import true_rand
+import virt_rand
+import hash_rand
